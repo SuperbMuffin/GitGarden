@@ -1,6 +1,6 @@
 # GitGarden
 
-<img src="flower-screenshot.png" align="right" width="450px">
+<img src="assets/flower-screenshot.png" align="right" width="450px">
 
 GitGarden turns your Git commit history into a growing piece of terminal art.  
 Every repository starts as a seed and evolves over time — sprouting, flowering, and eventually becoming a tree as your project gains commits.
@@ -33,7 +33,7 @@ Each node represents a commit, and you can move through them to inspect details 
 
 ---
 
-<img src="new_tree_gif.gif" align="right" width="450px">
+<img src="assets/new_tree_gif.gif" align="right" width="450px">
 
 ## Roadmap
 
